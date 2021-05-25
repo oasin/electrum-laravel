@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Oasin\Electrum\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ElectrumCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'electrum';
 
     public $description = 'My command';
 

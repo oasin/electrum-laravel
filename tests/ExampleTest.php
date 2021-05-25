@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Oasin\Electrum\Tests;
 
 class ExampleTest extends TestCase
 {
