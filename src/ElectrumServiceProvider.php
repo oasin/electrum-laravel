@@ -2,9 +2,9 @@
 
 namespace Oasin\Electrum;
 
+use Oasin\Electrum\Commands\ElectrumCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Oasin\Electrum\Commands\ElectrumCommand;
 
 class ElectrumServiceProvider extends PackageServiceProvider
 {
