@@ -1,6 +1,6 @@
 <?php
 
-namespace Oasin\Electrum\Database\Factories;
+namespace Oasin\Electrumvel\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
